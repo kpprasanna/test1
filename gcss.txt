@@ -1,0 +1,11 @@
+jenkins is onprem
+nexus on softlayer gsd-main source code 
+bitbucket
+gcss main - application code
+shared lib - gcss_cicd_shared_libs
+gcss jenkins jobs
+jobs appear on jenkins dashboard
+python plugin -job loader
+
+
+for DPE, Mars calculator and RMI
